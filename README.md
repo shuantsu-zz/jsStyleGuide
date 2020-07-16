@@ -1,6 +1,6 @@
-# Manual de instação do ESLint para garantir o uso das regras de estilo Javascript da Airbnb :fa-file-text-o:
+# Manual de instação do ESLint para garantir o uso das regras de estilo Javascript da Airbnb
 
-### Requisitos :fa-check-square-o:
+### Requisitos
 
 - Extensão Eslint instalada no VSCode https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 
@@ -9,7 +9,7 @@ https://github.com/airbnb/javascript
 
 ------------
 
-### Passo a passo :fa-list-ol:
+### Passo a passo
 
 (Baseado em: https://dev.to/devdammak/setting-up-eslint-in-your-javascript-project-with-vs-code-2amf)
 
@@ -70,7 +70,7 @@ Isso permite que se use o objeto console, algo que não é padrão desse guia de
 
 ------------
 
-### Configurações do VSCode :fa-gear:
+### Configurações do VSCode
 
 Talvez seja necessário fazer pequenas configurações no VSCode que não vem por padrão.
 (Para configurar vá em Configurações no VSCode ou pressione Ctrl + vírgula.)
