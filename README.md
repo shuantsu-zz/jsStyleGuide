@@ -31,6 +31,10 @@ CommonJS (require/exports)
 
 *Responder de acordo com requerimentos do projeto*
 
+**Does your project use TypeScript? (y/N)**
+
+No
+
 **Where does your code run?**
 
 Browser
