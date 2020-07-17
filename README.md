@@ -55,6 +55,8 @@ Javascript
 
 Yes
 
+------------
+
 Você deverá então ter um arquivo `.eslintrc.js` na raiz, semelhante a este:
 
 ```java
