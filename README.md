@@ -77,7 +77,7 @@ module.exports = {
 
 ```
 
-- **Perceba na linha 14 a inclusão feita manualmente da regra no-console: off**
+- **Perceba a inclusão feita manualmente em "rules" da regra no-console: off**
 Isso permite que se use o objeto console, algo que não é padrão desse guia de estilo. Apenas lembre-se de remover os logs ao mandar para produção.
 
 ------------
