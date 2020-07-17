@@ -20,27 +20,35 @@ https://github.com/airbnb/javascript
 5. Será apresentado um questionário. Sugestão de preenchimento:
 
 **How would you like to use ESLint?**
+
 To check syntax, find problems, and enforce code style
 
 **What type of modules does your project use?**
+
 CommonJS (require/exports)
 
 **Which framework does your project use?**
+
 *Responder de acordo com requerimentos do projeto*
 
 **Where does your code run?**
+
 Browser
 
 **How would you like to define a style for your project?**
+
 Use a popular style guide
 
 **Which style guide do you want to follow?**
+
 Airbnb
 
 **What format do you want your config file to be in?**
+
 Javascript
 
 **Would you like to install them now with npm?**
+
 Yes
 
 Você deverá então ter um arquivo `.eslintrc.js` na raiz, semelhante a este:
