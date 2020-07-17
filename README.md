@@ -91,7 +91,7 @@ Talvez seja necessário fazer pequenas configurações no VSCode que não vem po
 -> Usando a busca, desabilite a opção **Detect Indentation** e mude **Tab size** para `2`.
 
 - O fim de linha deve ser `\n` e não `\r\n`.
--> Usando a busca, mude a opção **files.eol** para `\n`
+-> Usando a busca, mude a opção **files.eol** para `\n`.
 
 ------------
 
