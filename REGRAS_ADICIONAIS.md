@@ -9,6 +9,10 @@ Usar “const” para uma variável que não será redeclarada
 
 Usar “let” para variável que poderá ser redeclarada.
 
+## Posição da declaração de variável
+
+Não posição mais ao topo possível do escopo.
+
 ## Convenção para nome de variável
 
 Variáveis devem estar em inglês e no padrão “camelCase”.
@@ -22,10 +26,6 @@ moneyAmount
 ageSum
 
 Etc…
-
-## Posição da declaração de variável
-
-Não posição mais ao topo possível do escopo.
 
 ## Nome de variáveis booleanas
 
