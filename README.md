@@ -104,4 +104,6 @@ Com todas as configurações feitas, você verá um sublinhado em vermelho no tr
 
 **Veja regras adicionais:**
 
+Regras sobre nomeação de funções, variaveis, métodos, classes, controle de fluxo, ponto e vírgula, etc.
+
 https://github.com/shuantsu/jsStyleGuide/blob/master/REGRAS_ADICIONAIS.md
