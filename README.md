@@ -96,6 +96,7 @@ Talvez seja necessário fazer pequenas configurações no VSCode que não vem po
 -> Usando a busca, mude a opção **files.eol** para `\n`.
 
 ------------
+Ao editar um arquivo Js, uma mensagem aparecerá perguntando se você deseja dar permissão ao Eslint. Clique no botão "Allow".
 
 Com todas as configurações feitas, você verá um sublinhado em vermelho no trecho que está em conflito com as normas de estilo. Passe o mouse em cima do trecho para ver a classificação do erro, e a documentação relacionada ao erro será  mostrada.
 
