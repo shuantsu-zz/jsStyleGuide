@@ -11,7 +11,7 @@ Usar “let” para variável que poderá ser redeclarada.
 
 ## Posição da declaração de variável
 
-Não posição mais ao topo possível do escopo.
+Não posição mais ao topo possível do escopo atual.
 
 ## Convenção para nome de variável
 
