@@ -102,7 +102,7 @@ Com todas as configurações feitas, você verá um sublinhado em vermelho no tr
 
 ------------
 
-**Veja regras adicionais:**
+**Veja regras adicionais não abrangidas pelo linter Eslint:**
 
 Regras sobre nomeação de funções, variaveis, métodos e classes, controle de fluxo, ponto e vírgula, etc.
 
