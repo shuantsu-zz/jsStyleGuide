@@ -98,3 +98,9 @@ Talvez seja necessário fazer pequenas configurações no VSCode que não vem po
 ------------
 
 Com todas as configurações feitas, você verá um sublinhado em vermelho no trecho que está em conflito com as normas de estilo. Passe o mouse em cima do trecho para ver a classificação do erro, e a documentação relacionada ao erro será  mostrada.
+
+------------
+
+Veja regras adicionais:
+
+https://github.com/shuantsu/jsStyleGuide/blob/master/REGRAS_ADICIONAIS.md
