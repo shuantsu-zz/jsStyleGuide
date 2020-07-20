@@ -29,17 +29,29 @@ Variáveis de tipo booleano definem se algo é verdadeiro ou falso, e devem ser 
 Exemplos:
 
 // bad
+
 const visible = true;
+
  // good
+ 
 const isVisible = true;
+
  // bad
+ 
 const equal = false;
+
  // good
+ 
 const areEqual = false;
+
  // bad
+ 
 const encryption = true;
+
  // good
+ 
 const hasEncryption = true;
+
 
 
 ## Nome de funções e métodos
@@ -49,8 +61,11 @@ Funções ou métodos devem ser precedidas por verbos que descrevem o que ela fa
 Exemplos:
 
 fetchUserData
+
 postNewBlogEntry
+
 calculateSquareRoot
+
 applyActiveState
 
 Etc…
