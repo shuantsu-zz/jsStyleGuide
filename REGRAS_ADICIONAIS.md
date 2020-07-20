@@ -3,17 +3,22 @@ Baseado em: https://www.robinwieruch.de/javascript-naming-conventions
 
 ## Como declarar uma variável
 
-“const” para uma variável que não será redeclarada
-“let” para variável que poderá ser redeclarada.
+Não declarar com var.
+
+Usar “const” para uma variável que não será redeclarada
+
+Usar “let” para variável que poderá ser redeclarada.
 
 ## Convenção para nome de variável
 
 Variáveis devem estar em inglês e no padrão “camelCase”.
 
-### Exemplos:
+**Exemplos:**
 
 firstName
+
 moneyAmount
+
 ageSum
 
 Etc…
@@ -28,27 +33,27 @@ Variáveis de tipo booleano definem se algo é verdadeiro ou falso, e devem ser 
 
 Exemplos:
 
-// bad
+// Não faça
 
 const visible = true;
 
- // good
+ // Faça
  
 const isVisible = true;
 
- // bad
+ // Não faça
  
 const equal = false;
 
- // good
+ // Faça
  
 const areEqual = false;
 
- // bad
+ // Não faça
  
 const encryption = true;
 
- // good
+ // Faça
  
 const hasEncryption = true;
 
@@ -72,10 +77,12 @@ Etc…
 
 ## Definição de classes e componentes
 
-Padrão Pascal:
+**Padrão Pascal:**
 
 UserProfile
+
 BlogPost
+
 ContactForm
 
 ## Ponto e vírgula
