@@ -23,7 +23,7 @@ ageSum
 
 Etc…
 
-##Posição da declaração de variável
+## Posição da declaração de variável
 
 Não posição mais ao topo possível do escopo.
 
