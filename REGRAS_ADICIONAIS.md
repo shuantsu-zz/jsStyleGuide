@@ -61,7 +61,7 @@ const hasEncryption = true;
 
 ## Nome de funções e métodos
 
-Funções ou métodos devem ser precedidas por verbos que descrevem o que ela faz.
+Funções ou métodos devem ser precedidas por verbos que descrevem o que eles fazem.
 
 Exemplos:
 
