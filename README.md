@@ -102,6 +102,6 @@ Com todas as configurações feitas, você verá um sublinhado em vermelho no tr
 
 ------------
 
-Veja regras adicionais:
+**Veja regras adicionais:**
 
 https://github.com/shuantsu/jsStyleGuide/blob/master/REGRAS_ADICIONAIS.md
